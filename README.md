@@ -1,4 +1,13 @@
-## Hi there 👋
+# Chyanne Galloway | Data Analyst
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chyanne-galloway/)  [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:chyanne.galloway@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge)](https://www.datascienceportfol.io/chyannegalloway)
+
+
+## About Me
+
+## Skills and Tools
+
+## Projects
 
 <!--
 **chyannegalloway/chyannegalloway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
