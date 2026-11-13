@@ -22,6 +22,15 @@ I am an aspiring Data Analyst based in London. Graduated with a Physics degree f
 | **[Real Estate Market Trends Analysis](https://github.com/chyannegalloway/Real-Estate-Market-Trends-Analysis)** | Performed an end-to-end data analysis project involving SQL and PowerBI to investigate retail market trends in the US over 100000+ rows of data | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ✅ Complete |
 | **E-Commerce Customer Behaviour, Retention and Churn Analysis** | Analysed e-commerce customer purchasing behaviour between 2020 and 2026 to  understand customer preferences, evaluate customer retention and identify opportunities to increase revenue. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | 🔄 In Progress |
 
+## Education
+
+I have a strong academic background with a Bachelor's degree in Physics with Astrophysics from the University from Warwick. Here, I:
+
+- Handled and analysed data using Python to organise and interpret physics data, applying computational methods to investigate physical phenomena.
+- Performed statistical analysis and probability modelling to identify patterns and relationships within datasets.
+- Created clear data visualisations using Matplotlib.
+- Collaborated with peers, worked efficiently to deliver high-quality work.
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chyanne-galloway/) 
